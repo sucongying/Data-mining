@@ -107,8 +107,8 @@
 ## 调用函数库
     glob
     os
-    pandas
-    numpy
+    pandas as pd
+    numpy as np
 ## 涉及的技术
 | 技术| 说明|
 | ---| ---|
