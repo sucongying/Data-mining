@@ -104,7 +104,7 @@
     	Var=np.sqrt(x_var*y_var)  #学科成绩和体育成绩方差相乘后开方
     	covar=covariance(x,y,num,x_average,y_average) #协方差
     	return covar/Var  #返回相关系数
-## 调用函数库
+## 调用库
     glob
     os
     pandas as pd
